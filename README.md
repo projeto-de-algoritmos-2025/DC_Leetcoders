@@ -16,7 +16,7 @@ Repositório destinado a realização do trabalho da disciplina de Projeto de Al
 
 ### Resultado leetcode 493. Reverse Pairs
 
-![Resultado leetcode 493]()
+![Resultado leetcode 493](./Problemas/493.%20Reverse%20Pairs/Resolucao493.png
 
 ### Resultado leetcode 315. Count of Smaller Numbers After Self
 
@@ -24,7 +24,7 @@ Repositório destinado a realização do trabalho da disciplina de Projeto de Al
 
 ### Resultado leetcode 4. Median of Two Sorted Arrays
 
-![Resultado leetcode 4]()
+![Resultado leetcode 4](./Problemas/4.%20Median%20of%20Two%20Sorted%20Arrays/)
 
 ## Problemas e Soluções
 | Problema | Dificuldade | 1 Vídeo Para as 3 Soluções |
