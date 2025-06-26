@@ -24,7 +24,7 @@ Repositório destinado a realização do trabalho da disciplina de Projeto de Al
 
 ### Resultado leetcode 4. Median of Two Sorted Arrays
 
-![Resultado leetcode 4](./Problemas/4.%20Median%20of%20Two%20Sorted%20Arrays)
+![Resultado leetcode 4](./Problemas/4.%20Median%20of%20Two%20Sorted%20Arrays/Resolucao4.png)
 
 ## Problemas e Soluções
 | Problema | Dificuldade | 1 Vídeo Para as 3 Soluções |
