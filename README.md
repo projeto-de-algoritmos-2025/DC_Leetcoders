@@ -16,7 +16,7 @@ Repositório destinado a realização do trabalho da disciplina de Projeto de Al
 
 ### Resultado leetcode 493. Reverse Pairs
 
-![Resultado leetcode 493](./Problemas/493.%20Reverse%20Pairs/Resolucao493.png
+![Resultado leetcode 493](./Problemas/493.%20Reverse%20Pairs/Resolucao493.png)
 
 ### Resultado leetcode 315. Count of Smaller Numbers After Self
 
