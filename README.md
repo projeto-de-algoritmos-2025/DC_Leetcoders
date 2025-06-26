@@ -1,44 +1,40 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# DC_Leetcoders
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 4<br>
+**Conteúdo da Disciplina**: Dividir e Conquistar<br>
 
 ## Alunos
-|Matrícula | Aluno |
+| Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 22/2014975  |  Cairo Florenço |
+| 22/2024793  |  Gustavo Feitosa |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Repositório destinado a realização do trabalho da disciplina de Projeto de Algoritmos 2025.1
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+### Resultado leetcode 
+
+![Resultado leetcode ]()
+
+### Resultado leetcode 
+
+![Resultado leetcode ]()
+
+### Resultado leetcode 
+
+![Resultado leetcode ]()
+
+## Problemas e Soluções
+| Problema | Dificuldade | 1 Vídeo Para as 3 Soluções |
+| -- | -- | -- |
+| []()  |  Difícil | [Vídeo]() |
+| []()  |  Difícil | [Vídeo]() |
+| []()  |  Difícil | [Vídeo]() |
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
-
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+**Linguagem**: Python3<br>
 
 
 
