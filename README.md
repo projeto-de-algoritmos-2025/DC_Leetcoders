@@ -20,7 +20,7 @@ Repositório destinado a realização do trabalho da disciplina de Projeto de Al
 
 ### Resultado leetcode 315. Count of Smaller Numbers After Self
 
-![Resultado leetcode 315]()
+![Resultado leetcode 315](./Problemas/315.%20Count%20of%20Smaller%20Numbers%20After%20Self/Resultado315.png)
 
 ### Resultado leetcode 4. Median of Two Sorted Arrays
 
