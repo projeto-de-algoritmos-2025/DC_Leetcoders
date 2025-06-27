@@ -29,9 +29,9 @@ Repositório destinado a realização do trabalho da disciplina de Projeto de Al
 ## Problemas e Soluções
 | Problema | Dificuldade | 1 Vídeo Para as 3 Soluções |
 | -- | -- | -- |
-| [493. Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description/)  |  Difícil | [Vídeo]() |
-| [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)  |  Difícil | [Vídeo]() |
-| [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)  |  Difícil | [Vídeo]() |
+| [493. Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description/)  |  Difícil | [Vídeo](https://youtu.be/YOx5B3YEruY) |
+| [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)  |  Difícil | [Vídeo](https://youtu.be/YOx5B3YEruY) |
+| [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)  |  Difícil | [Vídeo](https://youtu.be/YOx5B3YEruY) |
 
 ## Instalação 
 **Linguagem**: Python3<br>
